@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/will02/Documents/project/hw2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/hw2.dir/main.cpp.o -c /home/will02/Documents/project/hw2/main.cpp",
+  "file": "/home/will02/Documents/project/hw2/main.cpp"
+}
+]

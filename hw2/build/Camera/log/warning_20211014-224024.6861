@@ -1,0 +1,4 @@
+Log file created at: 2021/10/14 22:40:24
+Running on machine: will02-virtual-machine
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1014 22:40:24.544220  6865 MVCameraBase.cpp:98] Device:(name:MV-SUA133GC sn:040050820073)Lost
